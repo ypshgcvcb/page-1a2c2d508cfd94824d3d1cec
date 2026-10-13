@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "d20349f113823eb76a783134",
+  "owner": "ypshgcvcb",
+  "repo": "page-1a2c2d508cfd94824d3d1cec",
+  "title": "clash代理",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1a2c2d508cfd94824d3d1cec",
+      "a": "clash代理",
+      "b": "",
+      "entity": "clash代理",
+      "brand": "clash代理",
+      "separator": "",
+      "path": "index.html",
+      "hash": "b9f0180e937c2769447a85c5f564dcd492e42f5633abd2f264395977887c9f2e",
+      "content": {
+        "keyword1": "clash代理",
+        "keyword2": "",
+        "primary_entity": "clash代理",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "clash代理提供优质高速代理节点服务，支持多种套餐和设备，立即下载客户端获取加速体验。",
+          "AI_DESCRIPTION": "clash代理提供优质高速代理节点服务，支持多种套餐和设备，立即下载客户端获取加速体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>body{font-family:Arial,sans-serif;margin:0;padding:0;background:#f5f0e6;color:#333;line-height:1.6}.main{max-width:1200px;margin:0 auto;padding:20px}.h1{font-size:2.5rem;color:#2e7d32;text-align:center;margin-bottom:20px}.h2{font-size:1.8rem;color:#2e7d32;margin-top:40px}.h3{font-size:1.4rem;color:#2e7d32}.p{font-size:1rem;margin-bottom:15px}.card{background:white;border:2px solid #2e7d32;border-radius:8px;padding:20px;margin-bottom:20px;box-shadow:0 4px 8px rgba(0,0,0,0.1)}.card.featured{border-color:#2e7d32}.plan-name{font-size:1.3rem;font-weight:bold;color:#2e7d32}.price{font-size:1.2rem;color:#d32f2f}.annual{color:#2e7d32;font-style:italic}.features{list-style:none;padding:0}.features li{padding:8px 0;color:#2e7d32}.faq{margin-top:40px}details{margin-bottom:15px;background:white;padding:15px;border-radius:8px;border:1px solid #ddd}summary{font-weight:bold;color:#2e7d32;font-size:1.1rem;cursor:pointer}.summary{font-weight:bold}.answer{margin-top:10px;color:#444}</style><main class=\"main\"><h1>clash代理</h1><h2>品牌简介</h2><p>clash代理是专业的网络代理服务提供商，致力于为用户提供高速、稳定的代理节点解决方案。无论您是个人用户还是企业团队，我们都能为您提供定制化的服务。</p><h2>使用场景</h2><p>clash代理适用于各种网络加速需求，包括但不限于：日常上网浏览、海外购物和支付、游戏加速、视频流媒体解锁等场景。无论是在国内访问海外网站，还是在海外使用国内服务，clash代理都能提供可靠的支持。</p><h2>操作说明</h2><p>1. 选择合适的套餐并完成支付。</p><p>2. 获取您的专属订阅链接。</p><p>3. 下载并安装Clash客户端。</p><p>4. 在客户端中导入订阅链接并配置节点。</p><p>5. 享受高速代理服务。</p><p>详细配置流程请参考下方FAQ。</p><h2>套餐选择</h2><div class=\"card\"><h3 class=\"plan-name\">基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul class=\"features\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"card featured\"><h3 class=\"plan-name\">旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul class=\"features\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"card\"><h3 class=\"plan-name\">团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul class=\"features\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div><h2>常见问题</h2><div class=\"faq\"><details><summary>什么是clash代理？</summary><p class=\"answer\">clash代理是一种专业的网络代理服务，通过先进的节点技术提供高速访问和稳定连接，帮助用户突破地理限制，提升网络体验。</p></details><details><summary>如何订阅clash代理？</summary><p class=\"answer\">您可以选择基础版、旗舰版或团队版套餐，完成在线支付后，即可收到专属订阅链接。订阅后直接在Clash客户端中导入即可使用。</p></details><details><summary>支持哪些设备？</summary><p class=\"answer\">clash代理支持Windows、macOS、Android、iOS等多种设备，同时在线数量根据套餐而定。旗舰版支持5台，团队版支持20台。</p></details><details><summary>流量限制如何？</summary><p class=\"answer\">基础版每月100GB，旗舰版300GB，团队版1000GB。超出后可续费或升级套餐。</p></details><details><summary>如何下载客户端？</summary><p class=\"answer\">访问官网或提供的下载链接，下载最新版的Clash客户端。支持多种系统，安装后导入订阅即可。</p></details><details><summary>售后服务如何？</summary><p class=\"answer\">旗舰版和团队版提供7x24工单支持，团队版还有专属客户经理。基础版提供普通支持。</p></details></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>",
+          "hash": "7a16fc5ed1c919ef317b4e2b2a647f18b632ea6b1433b45af56c36e02dabcf43",
+          "seo": {
+            "title": "clash代理 - 高速节点加速器 官网下载与订阅",
+            "keywords": "clash代理, 加速器, vpn, 梯子, 机场, 客户端下载",
+            "description": "clash代理提供优质高速代理节点服务，支持多种套餐和设备，立即下载客户端获取加速体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hxjxsls.cn",
+    "host": "p-040419800f.hxjxsls.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "9aead2ff795dffb72f9acb0379f292ea379a80a44b6bee94b0d392a21dd81484",
+    "sitemap.xml": "e22a927eb329692f3c73fdb295da6f0b64cb396da2a2a3d72346185d5088b76d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "62e614ac6e9d3b7ed56053255349e5f0434272a3c68457563e942b1c0b032f09",
+    "robots.txt": "3efbd1321599f36be58ad6139732803c39f68d7dc4ac2eee70ee30be7798cefe",
+    "a0775e2312d27134f6b9ea2c4662a9d2.txt": "eac7da2862e8c0f382c374bcdb47809279327f3614b5541a982920ce982bcc02"
+  },
+  "revision": "222ad56669903a384d070e68e4f2332b2ced689fcf739c35c1ec2263a713ddba"
+}
